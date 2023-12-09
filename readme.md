@@ -66,27 +66,3 @@ The dataset used for this project contains more than two million customer compla
 
 ---
 
-## Key Concepts Explored
-
-1. One-Hot Encoding and Word2Vec
-2. Understanding Syntactic and Semantic Similarity
-3. Word2Vec
-4. Central and Context Words
-5. The Continuous Skip-Gram Algorithm
-6. Negative Sampling
-7. Steps to Create Word Embeddings using the Skip-Gram Algorithm
-8. Data Preparation for Skip-Gram Model
-9. Tokenization using `word_tokenization` from the NLTK library
-10. Removing spaces and digits
-11. Removing punctuation
-12. Creating a data loader for the Skip-Gram model
-13. Building the Skip-Gram model
-14. Training the Skip-Gram model using CUDA or CPU
-15. Using word embeddings to get word vectors
-
----
-
-
-
----
-
